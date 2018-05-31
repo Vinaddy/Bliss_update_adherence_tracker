@@ -1,5 +1,5 @@
 # Bliss_update_adherence_tracker
-This is a chrome plugin which automatically opens with Bliss and works only on bliss. The plugin creates a lock on the page which you can clear only if you've gone through the recent updates.
+This is a chrome plugin which automatically opens with Bliss and works only on bliss. The key to which you hold only if you've gone through the recent updates.
 
 Instructions to install and use the Bliss update adherence plugin
 
